@@ -8,8 +8,8 @@ The purpose of this analysis is to look at the weekly fares categorized by city 
 ### 2. Results 
 
 As you can see from the graphs and chart, the highest fares for city type were Urban, with Suburban in second and Rural in last.  
-For example, near the end of February you can see it hits $2500 in faresat one point for Urban, while it is below $500 for Rural during the same time frame.
-This is because the number of riders in Urban areas was about 15 times greater than in Rural areas.  Urban cities was the lone of the three to actually
+For example, near the end of February you can see it hits $2500 in fares at one point for Urban, while it is below $500 for Rural during the same time frame.
+This is because the number of riders in Urban areas was about 15 times greater than in Rural areas.  Urban cities were the lone of the three to actually
 have more drivers than riders, which makes sense as you can see the drivers made the least amount of money, since there was less demand.
 
 ![image](https://user-images.githubusercontent.com/108240844/201565059-ac3b2622-4aa5-4ba1-9054-4ed69411b266.png)
